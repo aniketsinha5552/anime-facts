@@ -1,3 +1,9 @@
+Hello 👋👋
+...Anime Facts is a Web Application created using React.js,Html,CSS and Javascript
+...It fetches data of different Animes from an API and displays on cards.
+...The cards are clickable which will take you to the Facts page which will show facts of that anime.
+...Enjoy !!✌️✌️
+
 Screenshots
 
 ![Screenshot (337)](https://user-images.githubusercontent.com/104712880/191480517-ce748f67-56c0-41d3-9e14-d5f593afc2a7.png)
