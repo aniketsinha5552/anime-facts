@@ -1,0 +1,16 @@
+.about{
+    /*background-image: url('wall.jpg'); */
+    color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    background-image: url('wall.jpg');
+
+}
+
+.about>p{
+    font-size: larger;
+    font-weight: bold;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    
+}

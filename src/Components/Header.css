@@ -1,0 +1,13 @@
+.header{
+  position: sticky;
+  top: 0;
+  z-index: 999;
+  color: black;
+ 
+}
+
+.navbar-brand{
+  margin-left: 20px;
+  font-family: 'Times New Roman', Times, serif;
+}
+

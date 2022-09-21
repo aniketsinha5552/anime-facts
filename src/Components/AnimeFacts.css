@@ -1,0 +1,51 @@
+.animeFacts{
+    color: rgb(37, 34, 34);
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 800px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color:rgb(164, 60, 61);
+   
+    margin-bottom: 20px;
+    font-weight: bold;
+    border-radius: 10px;
+
+}
+
+.animeFacts:hover{
+    box-shadow: 0px 10px 16px 0 rgba(0,0,0,0.2);
+    transform: scale(1.1);
+    background-color: rgb(212, 98, 98);
+      
+      
+      
+}
+
+.anime{
+    display: grid;
+    color: rgb(22, 20, 20);
+    justify-content: center;
+    background-image: url('wall.jpg');
+}
+
+.animeFacts{
+    margin-left: 10px;
+}
+
+.animeFacts>p{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.animeImage>img{
+    max-width: 300px;
+    max-height: 300px;
+}

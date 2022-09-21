@@ -1,0 +1,19 @@
+.home{
+ background-color:rgb(78, 78, 78);
+ background-image: url('wall.jpg');
+ background-repeat:repeat-y;
+ justify-content: center;
+ display: grid;
+ grid-template-columns: 1fr 1fr 1fr ;
+ padding-bottom: 15px;
+ border-radius: 10px;
+
+}
+
+.card-grid{
+  margin-top: 40px;
+  display: grid;
+  
+  grid-gap: 20px;
+}
+

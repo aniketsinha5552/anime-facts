@@ -1,0 +1,38 @@
+.footer-content{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:space-evenly;
+   
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    
+    border-radius: 4px;
+
+}
+.footer{
+    background-color:rgb(212, 204, 204);
+    padding-top: 5px;
+    align-items: center;
+    color: rgb(70, 54, 54);
+    padding-bottom: 5px;
+    position: relative;
+    bottom: 0px;
+   
+    border-radius: 10px;
+    
+}
+
+.footer>h3{
+    font-size: medium;
+}
+
+.footer-content>img{
+    max-width: 20px;
+    max-height: 20px;
+    border-radius: 6px;
+    
+
+}
